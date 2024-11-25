@@ -1,0 +1,3 @@
+[submodule "library project"]
+	path = library project
+	url = https://github.com/safrin9/library-project
